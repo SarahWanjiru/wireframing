@@ -55,7 +55,7 @@ Indicates where text, images, and other content will be positioned.
 Outlines key functionalities and interactions.
 **Example:** A "Search" button that, when clicked, expands a search bar and filters results in real-time, or a "Add to Cart" button on a product page that updates a shopping cart icon with the item count.
 
-## Types of Wireframing
+## Types of Wireframes
 
 1 Low-Fidelity Wireframes: 
  - Low fidelity is the most basic type of wireframing. It’s so simplistic, that paper and pen will still suffice as a way to represent your ideas, however, creating your wireframes in Figma will allow you to easily share them and make sure your team has access to your latest thinking as you iterate. Low fidelity wireframes are done in grayscale with a focus on layout and high-level interactions. UI elements and content are represented by basic shapes like squares, triangles, circles, and lines.
@@ -63,4 +63,4 @@ Outlines key functionalities and interactions.
  2 High-Fidelity Wireframes:
  - High fidelity wireframing takes what you put together in the low fidelity stage and sprinkles in more of the detailed elements. High fidelity wireframes include visual markers and branding signifiers like colors, graphics, and font style. UI elements look realistic and might even include textures and shadows. At this stage, a designer might also choose to add in images and copy. 
 
- 
+
