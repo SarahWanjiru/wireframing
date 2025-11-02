@@ -5,7 +5,8 @@
 Wireframing is a crucial step in the design process, serving as a blueprint or skeletal framework of a website or application. It outlines the basic structure and layout without delving into detailed design elements like colors, fonts, or images. Wireframes focus on the placement of elements, navigation flow, and overall user interface structure.
 
 ## Importance of Wireframing
-- Importance of Wireframing in the Design Process
+[] Importance of Wireframing in the Design Process:
+
 1 Clarifies Ideas and Concepts:
 
 - Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
@@ -35,6 +36,6 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 Focuses on Functionality and User Experience:
 
-[-] By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+[] By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 
 ## 
