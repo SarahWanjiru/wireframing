@@ -64,3 +64,10 @@ Outlines key functionalities and interactions.
  - High fidelity wireframing takes what you put together in the low fidelity stage and sprinkles in more of the detailed elements. High fidelity wireframes include visual markers and branding signifiers like colors, graphics, and font style. UI elements look realistic and might even include textures and shadows. At this stage, a designer might also choose to add in images and copy. 
 
 
+## Popular Wireframing Tools
+
+Figma is a highly recommended tool for wireframing due to its collaborative features, allowing multiple users to work on the same project in real-time. It offers vector-based design tools, extensive component libraries, and prototyping capabilities that enable designers to create interactive wireframes quickly. Figma's cloud-based platform makes it easy to share designs with stakeholders and iterate on feedback without version control issues, making it ideal for efficient and user-friendly wireframing processes.
+
+
+
+
